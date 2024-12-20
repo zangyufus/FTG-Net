@@ -41,6 +41,6 @@ https://github.com/user-attachments/assets/7f96d04b-78fb-4197-a8be-9e58ecc4b6ea
 
 
 # Visualization
-<img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view1.png" width="410px"> 
-<img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view2.png" width="410px">
+<img src="https://github.com/zangyufus/FTG-Net/blob/main/Image/Visualization1.png" width="410px"> 
+<img src="https://github.com/zangyufus/FTG-Net/blob/main/Image/Visualization2.png" width="410px">
 
