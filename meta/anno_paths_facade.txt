@@ -1,0 +1,10 @@
+building_1/facade_1
+building_2/facade_1
+building_3/facade_1
+building_4/facade_1
+building_5/facade_1
+building_6/facade_1
+building_7/facade_1
+building_8/facade_1
+building_9/facade_1
+building_10/facade_1
