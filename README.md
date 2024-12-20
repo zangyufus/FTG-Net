@@ -1,4 +1,5 @@
 # FTG-Net
+<img src="https://github.com/zangyufus/FTG-Net/blob/main/Image/FTG-Net.png" width="410px"> 
 
 # NUIST Facade and Commercial Street Datasets
 To validate the effectiveness of our proposed network, we conduct experiments on two building façade point cloud datasets: a university campus dataset (NUIST Façade dataset) and an urban street dataset (Commercial Street dataset) in Nanjing, China. Captured by two different terrestrial laser scanners (TLS), these datasets are situated in urban environments with diverse façade styles and include common façade elements (such as windows, walls, balconies, and doors). The NUIST Façade dataset primarily features functional high-rise buildings with various architectural styles, such as teaching buildings and dormitories. In contrast, the Commercial Street dataset primarily consists of low-rise buildings with more doors.
