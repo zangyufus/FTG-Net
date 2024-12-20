@@ -11,6 +11,24 @@ Please download and extract the zip file in the ```Data``` folder.
 /Data/NUIST Facade
 /Data/Commercial Street
 ```
+
+# Test procedure record    
+
+https://github.com/user-attachments/assets/7f96d04b-78fb-4197-a8be-9e58ecc4b6ea
+
+# Network presentation
+
+
+https://github.com/user-attachments/assets/4a7c5e25-eaaf-40ea-8433-dd68a94dca85
+
+
+
+# Visualization
+To clearly illustrate the validation results for each test dataset, detailed experiment results are presented.
+<img src="https://github.com/zangyufus/FTG-Net/blob/main/Image/Visualization1.png" width="410px"> 
+
+<img src="https://github.com/zangyufus/FTG-Net/blob/main/Image/Visualization2.png" width="410px">
+
 # Citation
 If you find this work useful for your research, please cite our paper:
 ```
@@ -37,21 +55,3 @@ If you find this work useful for your research, please cite our paper:
   year={2024}
 }
 ```
-
-# Test procedure record    
-
-https://github.com/user-attachments/assets/7f96d04b-78fb-4197-a8be-9e58ecc4b6ea
-
-# Network presentation
-
-
-https://github.com/user-attachments/assets/4a7c5e25-eaaf-40ea-8433-dd68a94dca85
-
-
-
-# Visualization
-To clearly illustrate the validation results for each test dataset, detailed experiment results are presented.
-<img src="https://github.com/zangyufus/FTG-Net/blob/main/Image/Visualization1.png" width="410px"> 
-
-<img src="https://github.com/zangyufus/FTG-Net/blob/main/Image/Visualization2.png" width="410px">
-
